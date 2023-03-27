@@ -1,6 +1,6 @@
 title: "Mengyu Xu"
 author: "Mengyu Xu"
-description: "University of Central Florida style=\"color: #f45;\">&lt;3</b>"
+description: "University of Central Florida"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
+  - {file: "CV.pdf", title: "CV"}
+  - {file: "index.html", title: "About me"}
   - {file: "README.md", title: "Publications"}
+  - {file: "README.md", title: "Teaching"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:Mengyu.Xu@ucf.edu"}

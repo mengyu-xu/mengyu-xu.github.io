@@ -26,7 +26,8 @@ keywords: time-series data analysis, high-dimensional data.
 <br> Assistant Professor
 <br> Department of Statistics and Data Science
 <br> University of Central Florida
-<br> email: Mengyu.Xu at ucf dot edu
+<br> Orlando, FL 32816
+<br> Email: Mengyu dot Xu at ucf dot edu
 <br>
 <br> <b> Research Interest </b>: 
 <br> Time series,  High-Dimensional Statistics, 

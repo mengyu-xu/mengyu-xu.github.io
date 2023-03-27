@@ -18,7 +18,7 @@ keywords: time-series data analysis, high-dimensional data.
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="sayarpicnew.jpeg" width="400" height="400" alt="" />
+    <img id="frontphoto" src="Mengyu.jpg" width="400" height="400" alt="" />
 </td>
 &nbsp; &nbsp; 
 <td class="left">
